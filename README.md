@@ -1,4 +1,4 @@
-# \hello-world
+# bun-notes-api
 
 To install dependencies:
 
@@ -6,10 +6,10 @@ To install dependencies:
 bun install
 ```
 
-To run:
+To run development server locally:
 
 ```bash
-bun run index.js
+bun start:dev
 ```
 
 This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
